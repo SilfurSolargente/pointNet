@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ventout", "Ventout\Ventout.vbproj", "{55E6391B-3C61-4A20-AFCA-395043AC2305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E6391B-3C61-4A20-AFCA-395043AC2305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E6391B-3C61-4A20-AFCA-395043AC2305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E6391B-3C61-4A20-AFCA-395043AC2305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E6391B-3C61-4A20-AFCA-395043AC2305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1B3DCB7-C254-4F1E-8735-5B74A6A0E6FE}
+	EndGlobalSection
+EndGlobal
